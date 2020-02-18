@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DoseRegistry.Data/1.0.0": {
+        "dependencies": {
+          "DoseRegistry.Core": "1.0.0"
+        },
+        "runtime": {
+          "DoseRegistry.Data.dll": {}
+        }
+      },
+      "DoseRegistry.Core/1.0.0": {
+        "runtime": {
+          "DoseRegistry.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoseRegistry.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoseRegistry.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

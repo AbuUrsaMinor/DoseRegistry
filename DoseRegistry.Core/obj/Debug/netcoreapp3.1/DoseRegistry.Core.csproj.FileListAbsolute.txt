@@ -1,0 +1,8 @@
+C:\Users\Erik\source\repos\DoseRegistry\DoseRegistry.Core\bin\Debug\netcoreapp3.1\DoseRegistry.Core.deps.json
+C:\Users\Erik\source\repos\DoseRegistry\DoseRegistry.Core\bin\Debug\netcoreapp3.1\DoseRegistry.Core.dll
+C:\Users\Erik\source\repos\DoseRegistry\DoseRegistry.Core\bin\Debug\netcoreapp3.1\DoseRegistry.Core.pdb
+C:\Users\Erik\source\repos\DoseRegistry\DoseRegistry.Core\obj\Debug\netcoreapp3.1\DoseRegistry.Core.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\DoseRegistry\DoseRegistry.Core\obj\Debug\netcoreapp3.1\DoseRegistry.Core.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\DoseRegistry\DoseRegistry.Core\obj\Debug\netcoreapp3.1\DoseRegistry.Core.AssemblyInfo.cs
+C:\Users\Erik\source\repos\DoseRegistry\DoseRegistry.Core\obj\Debug\netcoreapp3.1\DoseRegistry.Core.dll
+C:\Users\Erik\source\repos\DoseRegistry\DoseRegistry.Core\obj\Debug\netcoreapp3.1\DoseRegistry.Core.pdb
